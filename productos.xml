@@ -1,44 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE menu SYSTEM "menu.dtd">
 <menu>
-  <plato>
-    <nombre>Ensalada César</nombre>
-    <precio>8.99</precio>
-  </plato>
-  <plato>
-    <nombre>Pizza Margherita</nombre>
-    <precio>12.99</precio>
-  </plato>
-  <plato>
-    <nombre>Pollo al horno</nombre>
-    <precio>15.99</precio>
-  </plato>
-  <plato>
-    <nombre>Lasaña de carne</nombre>
-    <precio>13.99</precio>
-  </plato>
-  <plato>
-    <nombre>Bistec a la parrilla</nombre>
-    <precio>18.99</precio>
-  </plato>
-  <plato>
-    <nombre>Pescado frito</nombre>
-    <precio>14.99</precio>
-  </plato>
-  <plato>
-    <nombre>Sopa de verduras</nombre>
-    <precio>7.99</precio>
-  </plato>
-  <plato>
-    <nombre>Costillas de cerdo</nombre>
-    <precio>16.99</precio>
-  </plato>
-  <plato>
-    <nombre>Calamares fritos</nombre>
-    <precio>11.99</precio>
-  </plato>
-  <plato>
-    <nombre>Arroz con pollo</nombre>
-    <precio>10.99</precio>
-  </plato>
+  <product>
+    <name>Item 1</name>
+    <price>10.00</price>
+  </product>
+  <product>
+    <name>Item 2</name>
+    <price>15.00</price>
+  </product>
+  <product>
+    <name>Item 3</name>
+    <price>12.00</price>
+  </product>
+  <product>
+    <name>Item 4</name>
+    <price>8.00</price>
+  </product>
+  <product>
+    <name>Item 5</name>
+    <price>8.00</price>
+  </product>
 </menu>
